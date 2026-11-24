@@ -8,7 +8,7 @@ const products = [
     id: '101',
     name: 'Developer Laptop Pro',
     category: 'Electronics-gadgets',
-    price: 80000,
+    price: 780000,
     rating: 4.8,
     badge: 'New-Best Seller',
     desc: 'High-performance laptop optimized for development, DevOps, and cloud workloads.'
@@ -35,7 +35,7 @@ const products = [
     id: '104',
     name: 'Smart Fitness Watch',
     category: 'New Wearables',
-    price: 50000,
+    price: 960000,
     rating: 4.7,
     badge: 'Popular',
     desc: 'Advanced fitness tracking with heart rate monitoring and smart notifications.'
